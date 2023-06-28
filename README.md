@@ -6,10 +6,6 @@ Welcome to the Simulated Internship Platform! This repository contains my projec
 
 The Simulated Internship Platform is part of the Intel® AI For Workforce program, a global AI skilling program for vocational students. The program aims to address the AI skill crisis and cater to growing job demands related to AI/ML by empowering the future workforce with the necessary skills for employability in the digital economy.
 
-## Purpose
-
-The purpose of this repository is to provide access to my project codes and resources related to the Simulated Internship Platform. These projects are designed to give me hands-on experience in AI and machine learning, allowing me to apply the concepts and techniques I have learned.
-
 ## Contents
 
 This repository contains the following:
